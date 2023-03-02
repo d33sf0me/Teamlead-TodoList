@@ -1,0 +1,8 @@
+.filterIcon {
+    cursor: pointer;
+    height: 20px;
+    margin-right: 10px;
+    margin-top: 5px;
+    background-color: none;
+    background-image: './images/svggobbler.svg';
+}
