@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { useDispatch, useSelector } from "react-redux";
-import List from './List'
-import Filter from './Filter'
+import List from './List.jsx'
+import Filter from './Filter.jsx'
 import LoadingButton from '@atlaskit/button/loading-button';
 import TextField from '@atlaskit/textfield';
 import Form, { Field, FormFooter } from '@atlaskit/form';
